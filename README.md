@@ -21,15 +21,44 @@ A Java console-based Stock Trading Platform developed for the CodeAlpha Java Int
    java StockTradingPlatform
 
 ## Sample Output
-=== Stock Trading Platform ===
-Available Stock: TCS
-Price: ₹3500.0
-Enter number of shares to buy: 5
+Enter User Name: Ankitha Nagalakshmi
 
-Purchase Successful!
-Stock: TCS
-Shares: 5
-Total Amount: ₹17500.0
+====== STOCK TRADING PLATFORM ======
+1. View Market
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. Transaction History
+6. Exit
+Enter Choice: 3
+Enter Shares to Sell: 10
+Not enough shares!
+
+====== STOCK TRADING PLATFORM ======
+1. View Market
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. Transaction History
+6. Exit
+Enter Choice: 4
+
+Portfolio
+User : Ankitha Nagalakshmi
+Balance : ?100000.0
+Shares Owned : 0
+Portfolio Value : ?0.0
+
+====== STOCK TRADING PLATFORM ======
+1. View Market
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. Transaction History
+6. Exit
+Enter Choice: 6
+Thank you for using Stock Trading Platform!
+PS C:\Users\veedh\Documents>
 
 ## Author
 Developed by Ankitha Nagalakshmi Veedhi for the CodeAlpha Java Internship.
